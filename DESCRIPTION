@@ -1,0 +1,11 @@
+Package: crapply
+Type: Package
+Title: C-R-Apply (WORM)
+Version: 0.0-0
+Date: 2021-07-15
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Apply functions to columns or rows of a matrix.
+    This package evolves only by the addition of new files.
+License: AGPL-3
+Encoding: UTF-8
