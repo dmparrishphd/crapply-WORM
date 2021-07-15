@@ -1,2 +1,6 @@
-# crapply-WORM
-apply functions to columns or rows of a matrix
+crapply-WORM
+============
+
+"cee ar apply"
+
+[README](https://github.com/dmparrishphd/crapply-CORW).
